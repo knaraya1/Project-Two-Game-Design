@@ -10,6 +10,10 @@ if (states = playerStates.normal) {
 	if (keyboard_check_pressed(vk_space)) and instance_place(x, y+movementSpeed, obj_ground) {
 		vspeed = -jumpHeight
 	}
+	
+	if (instance_place(x, y-jumpHeight , obj_block)) {
+		game_restart()
+	}
 
 }
 else if (states = playerStates.upsideDown) {
@@ -19,9 +23,20 @@ else if (states = playerStates.upsideDown) {
 		vspeed = jumpHeight
 	}
 	
+	if (instance_place(x, y+jumpHeight , obj_block)) {
+		game_restart()
+	}
+	
 }
 
 if (instance_place(x+movementSpeed, y, obj_block)) {
 	game_restart()
 }
 
+if (states = playerStates.ship) {
+	gravity = 1
+	
+	if (keyboard_check(vk_space)) {
+		vspeed += -flightHeight
+	}
+}
