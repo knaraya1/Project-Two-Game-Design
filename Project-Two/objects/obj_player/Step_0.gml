@@ -12,7 +12,7 @@ if (states = playerStates.normal) {
 	}
 	
 	if (instance_place(x, y-jumpHeight , obj_block)) {
-		game_restart()
+		vspeed = 0
 	}
 
 }
@@ -24,7 +24,7 @@ else if (states = playerStates.upsideDown) {
 	}
 	
 	if (instance_place(x, y+jumpHeight , obj_block)) {
-		game_restart()
+		vspeed = 0
 	}
 	
 }
