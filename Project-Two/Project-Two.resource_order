@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
@@ -27,6 +28,7 @@
     {"name":"obj_blueorb","order":4,"path":"objects/obj_blueorb/obj_blueorb.yy",},
     {"name":"obj_game","order":1,"path":"objects/obj_game/obj_game.yy",},
     {"name":"spr_ship_portal","order":6,"path":"sprites/spr_ship_portal/spr_ship_portal.yy",},
+    {"name":"TileSet2","order":7,"path":"tilesets/TileSet2/TileSet2.yy",},
     {"name":"obj_ship_portal","order":6,"path":"objects/obj_ship_portal/obj_ship_portal.yy",},
     {"name":"obj_yellow_orb","order":3,"path":"objects/obj_yellow_orb/obj_yellow_orb.yy",},
   ],

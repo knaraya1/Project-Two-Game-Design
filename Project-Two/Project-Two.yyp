@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"spr_scifi","path":"sprites/spr_scifi/spr_scifi.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
@@ -45,7 +46,9 @@
     {"id":{"name":"obj_blueorb","path":"objects/obj_blueorb/obj_blueorb.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"spr_ship_portal","path":"sprites/spr_ship_portal/spr_ship_portal.yy",},},
+    {"id":{"name":"tls_scifi","path":"tilesets/tls_scifi/tls_scifi.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
     {"id":{"name":"obj_ship_portal","path":"objects/obj_ship_portal/obj_ship_portal.yy",},},
     {"id":{"name":"obj_yellow_orb","path":"objects/obj_yellow_orb/obj_yellow_orb.yy",},},
