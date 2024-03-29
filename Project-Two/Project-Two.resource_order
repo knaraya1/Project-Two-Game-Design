@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite9","order":9,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},

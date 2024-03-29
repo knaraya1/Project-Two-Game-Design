@@ -5,6 +5,7 @@ if (states = playerStates.normal) {
 	
 	if (keyboard_check_pressed(vk_space)) {
 		vspeed = -jumpHeight
+		
 	}
 	
 }
