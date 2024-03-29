@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-y = clamp(y, 103 + sprite_height/2, 1024 - sprite_height/2)
+y = clamp(y, 80 + sprite_height/2, 1024 - sprite_height/2)
 x += movementSpeed
 
 if (states = playerStates.normal) {

@@ -1,5 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
+// You can write your code in this editorgravity_direction = 270
 gravity_direction = 270
 
 enum playerStates {
