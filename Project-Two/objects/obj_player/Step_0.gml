@@ -7,6 +7,7 @@ x += movementSpeed
 if (states = playerStates.normal) {
 	gravity = 1
 	
+	
 	if (keyboard_check_pressed(vk_space)) and instance_place(x, y+movementSpeed, obj_ground) {
 		vspeed = -jumpHeight
 	}
