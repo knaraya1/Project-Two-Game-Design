@@ -21,6 +21,7 @@
     {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"obj_enemy1","order":7,"path":"objects/obj_enemy1/obj_enemy1.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"obj_block","order":5,"path":"objects/obj_block/obj_block.yy",},
     {"name":"tls_background","order":1,"path":"tilesets/tls_background/tls_background.yy",},

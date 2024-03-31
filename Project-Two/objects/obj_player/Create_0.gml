@@ -10,3 +10,5 @@ enum playerStates {
 	cube,
 }
 states = playerStates.normal
+
+image_xscale = -image_xscale
