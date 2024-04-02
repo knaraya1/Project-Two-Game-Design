@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-y = clamp(y, 170 + sprite_height/2, 1025 - sprite_height/2)
+y = clamp(y, 170 + sprite_height/2 + 20, 1025 - sprite_height/2)
 
 if (keyboard_check(vk_right) and !instance_place(x+movementSpeed, y, obj_block)) {
 	hspeed = movementSpeed
@@ -30,7 +30,7 @@ if (states = playerStates.normal) {
 		vspeed = -jumpHeight
 	}
 	
-	if (instance_place(x, y-jumpHeight , obj_block)) {
+	if (instance_place(x, y-jumpHeight/2 , obj_block)) {
 		vspeed = 0
 	}
 
@@ -42,7 +42,7 @@ else if (states = playerStates.upsideDown) {
 		vspeed = jumpHeight
 	}
 	
-	if (instance_place(x, y+jumpHeight , obj_block)) {
+	if (instance_place(x, y+jumpHeight/2 , obj_block)) {
 		vspeed = 0
 	}
 	

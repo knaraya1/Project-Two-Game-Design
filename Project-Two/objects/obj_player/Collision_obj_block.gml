@@ -15,7 +15,7 @@ if (y < other.y) {
 }
 else if (y > other.y) {
 	 if (states = playerStates.upsideDown) {
-		y = clamp(y, other.y + other.sprite_height/2 + sprite_height/2 + 50,  1024)
+		y = clamp(y, other.y + other.sprite_height/2 + sprite_height/2 + 73,  1024)
 		gravity = 0
 		vspeed = 0
 	////	if (keyboard_check_pressed(vk_space)) {
