@@ -3,23 +3,34 @@
 
 y = clamp(y, 170 + sprite_height/2 + 20, 1025 - sprite_height/2)
 
-if (keyboard_check(vk_right) and !instance_place(x+movementSpeed, y, obj_block)) {
-	hspeed = movementSpeed
-}
-else if (keyboard_check(vk_left) and !instance_place(x-movementSpeed, y, obj_block)) {
-	hspeed = -movementSpeed
+keyboard_key_press(vk_right)
 
-} else {
-	hspeed = 0
+if (keyboard_check(vk_right)) {//and !instance_place(x+movementSpeed, y, obj_block)) {
+	x += movementSpeed
+}
+//} else if (keyboard_check(vk_left) and !instance_place(x-movementSpeed, y, obj_block)) {
+//	hspeed = -movementSpeed
+
+//} else {
+//	hspeed = 0
+//}
+
+if (instance_place(x+movementSpeed/2, y, obj_block)) {
+	instance_destroy()
 }
 
-if (keyboard_check_pressed(vk_left) and facingLeft = false) {
-	image_xscale = -image_xscale
-	facingLeft = true;
-} else if (keyboard_check_pressed(vk_right) and facingLeft) = true {
-	image_xscale = -image_xscale
-	facingLeft = false;
-}
+
+//if !(instance_place(x+movementSpeed, y, obj_block)) {
+//	hspeed = movementSpeed
+//}
+
+//if (keyboard_check_pressed(vk_left) and facingLeft = false) {
+//	image_xscale = -image_xscale
+//	facingLeft = true;
+//} else if (keyboard_check_pressed(vk_right) and facingLeft) = true {
+//	image_xscale = -image_xscale
+//	facingLeft = false;
+//}
 
 
 if (states = playerStates.normal) {
