@@ -11,4 +11,4 @@ enum playerStates {
 }
 states = playerStates.normal
 
-image_xscale = -image_xscale
+image_xscale *= -1
