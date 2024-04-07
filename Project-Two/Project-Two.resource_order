@@ -17,7 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite9","order":9,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"spr_enemy1","order":9,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
     {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},
@@ -34,7 +34,7 @@
     {"name":"spr_spike","order":12,"path":"sprites/spr_spike/spr_spike.yy",},
     {"name":"spr_blueorb","order":4,"path":"sprites/spr_blueorb/spr_blueorb.yy",},
     {"name":"spr_yelloworb","order":3,"path":"sprites/spr_yelloworb/spr_yelloworb.yy",},
-    {"name":"Sprite910","order":10,"path":"sprites/Sprite910/Sprite910.yy",},
+    {"name":"spr_enemy2","order":10,"path":"sprites/spr_enemy2/spr_enemy2.yy",},
     {"name":"spr_ground","order":2,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"obj_4spikes","order":12,"path":"objects/obj_4spikes/obj_4spikes.yy",},
     {"name":"obj_blueorb","order":4,"path":"objects/obj_blueorb/obj_blueorb.yy",},

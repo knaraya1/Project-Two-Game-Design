@@ -32,8 +32,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "Sprite910",
-    "path": "sprites/Sprite910/Sprite910.yy",
+    "name": "spr_enemy2",
+    "path": "sprites/spr_enemy2/spr_enemy2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

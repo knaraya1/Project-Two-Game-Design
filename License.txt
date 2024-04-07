@@ -1,0 +1,34 @@
+License Information:
+
+Player Sprite (spr_player) - https://opengameart.org/content/animated-slime
+Animated Slime by Calciumtrice, usable under Creative Commons CC-BY 3.0 license.
+
+Tile Sprite (spr_scifi) - https://opengameart.org/content/sci-fi-platform-tiles
+Sci-fi platform tiles by Eris, usable under Creative Commons CC0 license.
+
+Rotating Orbs Sprites (spr_yelloworb and spr_blueorb) - https://opengameart.org/content/rotating-orbs
+Rotating Orbs tiles by AntumDeluge, usable under Creative Commons CC0 license.
+
+4 Spikes Sprite (spr_4spikes) - https://opengameart.org/content/spikes-32x32
+Spikes 32x32 by kungfu4000, usable under Creative Commons CC0 license.
+
+Spike Items and Spike Monsters Sprites (spr_spike, spr_spike_monster1, and spr_spike_monster2) - https://opengameart.org/content/bevouliin-free-ingame-items-spike-monsters
+Bevouliin Free Ingame Items - Spike Monsters by bevouliin.com, usable under Creative Commons CC0 license.
+
+Enemy Sprites (spr_enemy1 and spr_enemy2) - https://opengameart.org/content/grumpy-block-tileset-game-obstacles
+Grumpy Block Tileset Game Obstacles by bevouliin.com, usable under Creative Commons CC-BY 3.0 license.
+
+Stage background Sprite (spr_background) - https://opengameart.org/content/green-gridbox
+Green Gridbox by craigsnedeker, usable under Creative Commons CC0 license.
+
+Ground Sprite (spr_ground) - https://opengameart.org/content/ground
+Ground by Nekith, usable under Creative Commons CC0 license.
+
+Background Music (snd_music) - https://opengameart.org/content/neocrey-miami-soul
+Miami Soul by neocrey, usable under Creative Commons CC-BY-SA 3.0 license.
+
+Portal Sprite (spr_ship_portal) - https://opengameart.org/content/portals-32-x-48
+Portals 32 x 48 by RodHakGames, usable under Creative Commons CC0 license.
+
+Object Block Place Holder Sprite (spr_block) - https://opengameart.org/content/black-asphalt-tilling-256px
+Black asphalt tilling 256px by Tiziana, usable under Creative Commons CC-BY 3.0 license.
