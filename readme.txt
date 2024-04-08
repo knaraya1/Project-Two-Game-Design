@@ -1,3 +1,12 @@
+Game Title: Project Algebra (Haven't Decided on Final Name)
+Group Name: Team A
+
+Members:
+Producer: David Taylor
+Programmer: Kabir Narayan
+Artist: Josh Diggs
+
+
 How To Play:
 To move, use the left or right arrow keys to move left or right.
 To Jump press spacebar.
