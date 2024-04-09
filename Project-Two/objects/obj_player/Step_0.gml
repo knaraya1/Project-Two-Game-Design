@@ -76,10 +76,10 @@ else if (states = playerStates.upsideDown) {
 
 
 
-if (states = playerStates.ship) {
-	gravity = 1
+//if (states = playerStates.ship) {
+//	gravity = 1
 	
-	if (keyboard_check(vk_space)) {
-		vspeed += -flightHeight
-	}
-}
+//	if (keyboard_check(vk_space)) {
+//		vspeed += -flightHeight
+//	}
+//}

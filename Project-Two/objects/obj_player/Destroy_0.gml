@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-audio_stop_all()
-room_restart()
-
+if (obj_game.player_health > 0) {
+	obj_game.player_health -= 20
+	instance_create_layer(37, 987, "Player_Instance", obj_player)
+} else if (obj_game.player_health <= 0) {
+	game_restart()
+	audio_stop_all()
+}
