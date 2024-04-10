@@ -19,10 +19,12 @@
   "ResourceOrderSettings": [
     {"name":"spr_enemy1","order":9,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
     {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
+    {"name":"spr_enemy3","order":16,"path":"sprites/spr_enemy3/spr_enemy3.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"obj_coin","order":13,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"obj_enemy3","order":14,"path":"objects/obj_enemy3/obj_enemy3.yy",},
     {"name":"obj_spike_monster2","order":10,"path":"objects/obj_spike_monster2/obj_spike_monster2.yy",},
     {"name":"obj_enemy1","order":7,"path":"objects/obj_enemy1/obj_enemy1.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},

@@ -36,10 +36,12 @@
   "resources": [
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
     {"id":{"name":"spr_scifi","path":"sprites/spr_scifi/spr_scifi.yy",},},
+    {"id":{"name":"spr_enemy3","path":"sprites/spr_enemy3/spr_enemy3.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"obj_enemy3","path":"objects/obj_enemy3/obj_enemy3.yy",},},
     {"id":{"name":"obj_spike_monster2","path":"objects/obj_spike_monster2/obj_spike_monster2.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},

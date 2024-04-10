@@ -2,5 +2,5 @@
 // You can write your code in this editor
 gravity_direction = 270
 gravity = 1
-
+image_xscale *= -1
 
