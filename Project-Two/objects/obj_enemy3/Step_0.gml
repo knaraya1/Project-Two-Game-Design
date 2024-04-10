@@ -6,12 +6,12 @@ if states = enemy3States.normal {
 	if (!(instance_place(x+1, y+1, obj_block)) or (instance_place(x+movementSpeed, y, obj_block))) {
 		hspeed = -hspeed
 		
-		alarm[0] = random_range(60, 360)
+		//alarm[0] = 1
 		
 	} else if (!(instance_place(x-1, y+1, obj_block)) or (instance_place(x-movementSpeed, y, obj_block))) {
 		hspeed = +hspeed	
 		
-		//alarm[0] = 60
+		//alarm[0] = 1
 	}
 
 } else if states = enemy3States.upsideDown {
@@ -19,12 +19,12 @@ if states = enemy3States.normal {
 	if (!(instance_place(x+1, y-1, obj_block)) or (instance_place(x+movementSpeed, y, obj_block))) {
 		hspeed = -hspeed
 		
-		//alarm[1] = 60
+		//alarm[1] = 1
 		
 	} else if (!(instance_place(x-1, y-1, obj_block)) or (instance_place(x-movementSpeed, y, obj_block))) {
 		hspeed = +hspeed
 		
-		alarm[1] = random_range(60, 360)
+		//alarm[1] = 1
 		
 	}
 }

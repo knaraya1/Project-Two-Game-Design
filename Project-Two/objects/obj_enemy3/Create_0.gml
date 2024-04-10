@@ -10,3 +10,4 @@ enum enemy3States {
 
 states = enemy3States.normal
 
+alarm[0] = 60
