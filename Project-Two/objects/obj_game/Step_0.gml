@@ -3,4 +3,6 @@
 if (keyboard_check_pressed(vk_backspace)) {
 	game_restart()
 }
-
+if (keyboard_check_pressed(ord("P"))) {
+	room_goto_next()
+}

@@ -36,6 +36,7 @@
     {"name":"tls_background","order":1,"path":"tilesets/tls_background/tls_background.yy",},
     {"name":"obj_enemy2","order":8,"path":"objects/obj_enemy2/obj_enemy2.yy",},
     {"name":"spr_spike","order":12,"path":"sprites/spr_spike/spr_spike.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"spr_blueorb","order":4,"path":"sprites/spr_blueorb/spr_blueorb.yy",},
     {"name":"spr_yelloworb","order":3,"path":"sprites/spr_yelloworb/spr_yelloworb.yy",},
     {"name":"spr_enemy2","order":10,"path":"sprites/spr_enemy2/spr_enemy2.yy",},

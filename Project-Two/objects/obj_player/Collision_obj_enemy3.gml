@@ -14,6 +14,8 @@ if (states = playerStates.normal) and (obj_enemy3.states = enemy3States.normal) 
 	} else {
 		instance_destroy();
 	}	
+} else {
+	instance_destroy();
 }
 
 
