@@ -28,6 +28,7 @@
     {"name":"obj_spike_monster2","order":10,"path":"objects/obj_spike_monster2/obj_spike_monster2.yy",},
     {"name":"obj_enemy1","order":7,"path":"objects/obj_enemy1/obj_enemy1.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
     {"name":"obj_block","order":5,"path":"objects/obj_block/obj_block.yy",},
     {"name":"spr_spike_monster1","order":13,"path":"sprites/spr_spike_monster1/spr_spike_monster1.yy",},
     {"name":"obj_spike","order":11,"path":"objects/obj_spike/obj_spike.yy",},
