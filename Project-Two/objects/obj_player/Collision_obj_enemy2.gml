@@ -3,12 +3,15 @@
 if (states = playerStates.upsideDown) {
 	if (vspeed < -2) and (y > other.y) {
 		instance_destroy(other);
+		audio_play_sound(snd_squash, 10, false)
 		vspeed = jumpHeight;
 	} else {
 		instance_destroy();
+		audio_play_sound(snd_lose, 10, false)
 	}	
 } else if (states = playerStates.normal) {
 	instance_destroy()
+	audio_play_sound(snd_lose, 10, false)
 }
 
 

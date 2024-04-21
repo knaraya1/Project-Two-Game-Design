@@ -38,6 +38,7 @@ if (states = playerStates.normal) {
 	
 	
 	if (keyboard_check_pressed(vk_space)) and (instance_place(x, y+movementSpeed, obj_ground) or (instance_place(x, y+movementSpeed, obj_block))) {
+		audio_play_sound(snd_jump, 10, false)
 		vspeed = -jumpHeight
 	}
 	
@@ -50,6 +51,7 @@ else if (states = playerStates.upsideDown) {
 	gravity = -1
 	
 	if (keyboard_check_pressed(vk_space)) and (instance_place(x, y-movementSpeed, obj_ground) or (instance_place(x, y-movementSpeed, obj_block))) {
+		audio_play_sound(snd_jump, 10, false)
 		vspeed = jumpHeight
 	}
 	
