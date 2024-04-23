@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_spike_monster1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_bat_enemy",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_spike_monster1",
-    "path": "sprites/spr_spike_monster1/spr_spike_monster1.yy",
+    "name": "spr_bat",
+    "path": "sprites/spr_bat/spr_bat.yy",
   },
   "spriteMaskId": null,
   "visible": true,

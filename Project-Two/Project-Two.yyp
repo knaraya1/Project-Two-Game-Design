@@ -79,6 +79,7 @@
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
     {"id":{"name":"obj_ship_portal","path":"objects/obj_ship_portal/obj_ship_portal.yy",},},
+    {"id":{"name":"obj_bat_enemy","path":"objects/obj_bat_enemy/obj_bat_enemy.yy",},},
     {"id":{"name":"spr_destroy","path":"sprites/spr_destroy/spr_destroy.yy",},},
     {"id":{"name":"obj_yellow_orb","path":"objects/obj_yellow_orb/obj_yellow_orb.yy",},},
     {"id":{"name":"obj_spike_monster1","path":"objects/obj_spike_monster1/obj_spike_monster1.yy",},},
