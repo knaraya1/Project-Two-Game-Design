@@ -47,6 +47,7 @@
     {"id":{"name":"obj_spike_monster2","path":"objects/obj_spike_monster2/obj_spike_monster2.yy",},},
     {"id":{"name":"spr_cave_tile","path":"sprites/spr_cave_tile/spr_cave_tile.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
+    {"id":{"name":"fly_path","path":"paths/fly_path/fly_path.yy",},},
     {"id":{"name":"snd_squash","path":"sounds/snd_squash/snd_squash.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
