@@ -78,7 +78,7 @@
     {"id":{"name":"tls_scifi","path":"tilesets/tls_scifi/tls_scifi.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
-    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+    {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},},
     {"id":{"name":"obj_ship_portal","path":"objects/obj_ship_portal/obj_ship_portal.yy",},},
     {"id":{"name":"obj_bat_enemy","path":"objects/obj_bat_enemy/obj_bat_enemy.yy",},},
     {"id":{"name":"spr_destroy","path":"sprites/spr_destroy/spr_destroy.yy",},},
