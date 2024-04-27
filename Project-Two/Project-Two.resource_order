@@ -50,6 +50,7 @@
     {"name":"spr_yelloworb","order":3,"path":"sprites/spr_yelloworb/spr_yelloworb.yy",},
     {"name":"spr_cave_platform","order":20,"path":"sprites/spr_cave_platform/spr_cave_platform.yy",},
     {"name":"spr_enemy2","order":10,"path":"sprites/spr_enemy2/spr_enemy2.yy",},
+    {"name":"obj_last_coin","order":17,"path":"objects/obj_last_coin/obj_last_coin.yy",},
     {"name":"spr_ground","order":2,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"obj_4spikes","order":12,"path":"objects/obj_4spikes/obj_4spikes.yy",},
     {"name":"tls_cave_platform","order":3,"path":"tilesets/tls_cave_platform/tls_cave_platform.yy",},
