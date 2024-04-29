@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_cave_tile",
-    "path": "sprites/spr_cave_tile/spr_cave_tile.yy",
+    "name": "spr_cave_grey",
+    "path": "sprites/spr_cave_grey/spr_cave_grey.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
