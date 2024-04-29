@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "sprite_grass",
-    "path": "sprites/sprite_grass/sprite_grass.yy",
+    "name": "spr_grass",
+    "path": "sprites/spr_grass/spr_grass.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
