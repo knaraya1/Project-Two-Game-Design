@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_enemy1","order":9,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
+    {"name":"obj_final_room","order":18,"path":"objects/obj_final_room/obj_final_room.yy",},
     {"name":"spe_ground","order":23,"path":"sprites/spe_ground/spe_ground.yy",},
     {"name":"snd_coin","order":2,"path":"sounds/snd_coin/snd_coin.yy",},
     {"name":"spr_scifi","order":8,"path":"sprites/spr_scifi/spr_scifi.yy",},
@@ -51,6 +52,7 @@
     {"name":"tls_background","order":1,"path":"tilesets/tls_background/tls_background.yy",},
     {"name":"snd_lose","order":3,"path":"sounds/snd_lose/snd_lose.yy",},
     {"name":"obj_enemy2","order":8,"path":"objects/obj_enemy2/obj_enemy2.yy",},
+    {"name":"Room5","order":4,"path":"rooms/Room5/Room5.yy",},
     {"name":"spr_spike","order":12,"path":"sprites/spr_spike/spr_spike.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"spr_blueorb","order":4,"path":"sprites/spr_blueorb/spr_blueorb.yy",},

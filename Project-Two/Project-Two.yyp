@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
+    {"id":{"name":"obj_final_room","path":"objects/obj_final_room/obj_final_room.yy",},},
     {"id":{"name":"spe_ground","path":"sprites/spe_ground/spe_ground.yy",},},
     {"id":{"name":"snd_coin","path":"sounds/snd_coin/snd_coin.yy",},},
     {"id":{"name":"spr_scifi","path":"sprites/spr_scifi/spr_scifi.yy",},},
@@ -69,6 +70,7 @@
     {"id":{"name":"tls_background","path":"tilesets/tls_background/tls_background.yy",},},
     {"id":{"name":"snd_lose","path":"sounds/snd_lose/snd_lose.yy",},},
     {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"spr_spike","path":"sprites/spr_spike/spr_spike.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"spr_blueorb","path":"sprites/spr_blueorb/spr_blueorb.yy",},},
@@ -103,6 +105,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
