@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-var destroy = instance_create_layer(other.x, other.y, "obstacle_instance", obj_destroy);
 if (states = playerStates.normal) and (obj_enemy3.states = enemy3States.normal) {
 	if (vspeed > 2) and (y < other.y) {
+		var destroy = instance_create_layer(other.x, other.y, "obstacle_instance", obj_destroy);
 		instance_destroy(other);
 		audio_play_sound(snd_squash, 10, false)
 		destroy.alarm[0] = 15
@@ -13,6 +13,7 @@ if (states = playerStates.normal) and (obj_enemy3.states = enemy3States.normal) 
 	}
 } else if (states = playerStates.upsideDown) and (obj_enemy3.states = enemy3States.upsideDown) {
 	if (vspeed < -2) and (y > other.y) {
+		var destroy = instance_create_layer(other.x, other.y, "obstacle_instance", obj_destroy);
 		instance_destroy(other);
 		audio_play_sound(snd_squash, 10, false)
 		destroy.alarm[0] = 15
