@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite15",
-    "path": "sprites/Sprite15/Sprite15.yy",
+    "name": "spr_coin",
+    "path": "sprites/spr_coin/spr_coin.yy",
   },
   "spriteMaskId": null,
   "visible": true,
