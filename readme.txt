@@ -16,5 +16,4 @@ Jump Orbs allow you to double jump when you land on them.
 To double jump from a jump orb, press spacebar as soon as the player lands on the orb.
 Gravity Orbs causes the player's gravity to switch from negative to positive and vice versa.
 To switch the player's gravity, press spacebar when you land on a Gravity Orb.
-If you land on or collide with a spike, you will die and the game restarts.
-If you head touch any obstacle, you will die and the game restarts.
+If you land on or collide with a spike or enemy, you will lose health and restart the stage.
