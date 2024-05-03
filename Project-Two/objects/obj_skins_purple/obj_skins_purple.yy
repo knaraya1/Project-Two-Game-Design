@@ -4,6 +4,7 @@
   "name": "obj_skins_purple",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
@@ -12,8 +13,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_skins_blue","path":"objects/obj_skins_blue/obj_skins_blue.yy",},"propertyId":{"name":"skin","path":"objects/obj_skins_blue/obj_skins_blue.yy",},"value":"spr_player2",},
   ],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Objects/Buttons.yy",
+    "name": "Menu",
+    "path": "folders/Objects/Menu.yy",
   },
   "parentObjectId": {
     "name": "obj_skins_blue",

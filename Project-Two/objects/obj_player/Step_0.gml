@@ -85,5 +85,8 @@ else if (states = playerStates.upsideDown) {
 //		vspeed += -flightHeight
 //	}
 //}
-
-object_set_sprite(obj_player, current_skin);
+if (obj_game.num_coins < 69) {
+sprite_index = current_skin;
+} else {
+	sprite_index = spr_player5;
+}

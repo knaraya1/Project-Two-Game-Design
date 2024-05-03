@@ -58,8 +58,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player Skins",
+    "path": "folders/Sprites/Player Skins.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

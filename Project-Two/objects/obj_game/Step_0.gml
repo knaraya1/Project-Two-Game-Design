@@ -9,16 +9,17 @@ if (keyboard_check_pressed(ord("P"))) {
 	}
 }
 
-if (keyboard_check_pressed(vk_escape)) {
-	pause = !pause;
-	if (room != rm_pause_menu) {
+if (room != rm_pause_menu) {
 		current_room = room;
 		room_persistent = true;
 	}
+if (keyboard_check_pressed(vk_escape)) {
+	pause = !pause;
 	if (pause == false) {
 		room_goto(current_room);
 	} else {
 		room_goto(rm_pause_menu);
+		room_persistent = true;
 	}
 }
 if (!pause) {
