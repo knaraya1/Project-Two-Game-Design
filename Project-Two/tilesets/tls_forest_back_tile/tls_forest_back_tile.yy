@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_forrest_background",
-    "path": "sprites/spr_forrest_background/spr_forrest_background.yy",
+    "name": "spr_forest_background",
+    "path": "sprites/spr_forest_background/spr_forest_background.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

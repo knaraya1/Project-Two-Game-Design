@@ -1,6 +1,6 @@
 License Information:
 
-Player Sprite (spr_player) - https://opengameart.org/content/animated-slime
+Player Sprite (spr_player1,2,3,4,5) - https://opengameart.org/content/animated-slime
 Animated Slime by Calciumtrice, usable under Creative Commons CC-BY 3.0 license.
 
 Tile Sprite (spr_scifi) - https://opengameart.org/content/sci-fi-platform-tiles
@@ -21,8 +21,8 @@ Grumpy Block Tileset Game Obstacles by bevouliin.com, usable under Creative Comm
 Stage background Sprite (spr_background) - https://opengameart.org/content/green-gridbox
 Green Gridbox by craigsnedeker, usable under Creative Commons CC0 license.
 
-Ground Sprite (spr_ground) - https://opengameart.org/content/ground
-Ground by Nekith, usable under Creative Commons CC0 license.
+Ground With Grass Sprite (spr_ground) - https://opengameart.org/content/pixelart-groundgrass-tiles-2d-32x32
+Pixelart ground(grass) tiles 2D 32x32 by MraveniskoDev, usable under Creative Commons CC0 license.
 
 Background Music (snd_music) - https://opengameart.org/content/neocrey-miami-soul
 Miami Soul by neocrey, usable under Creative Commons CC-BY-SA 3.0 license.
@@ -32,3 +32,39 @@ Portals 32 x 48 by RodHakGames, usable under Creative Commons CC0 license.
 
 Object Block Place Holder Sprite (spr_block) - https://opengameart.org/content/black-asphalt-tilling-256px
 Black asphalt tilling 256px by Tiziana, usable under Creative Commons CC-BY 3.0 license.
+
+Vaporizing Cloud Particle Sprite (spr_destroy) - https://opengameart.org/content/vaporizng-cloud-particle
+Vaporizing Cloud Particle by davididev, usable under Creative Commons CC-BY 4.0 license.
+
+Spinning coin Sprite (spr_coin) - https://opengameart.org/content/spinning-coin
+Spinning coin by JM.Atencia, usable under Creative Commons CC-BY 3.0 license.
+
+Cave Tiles Sprite (spr_cave_platform) - https://opengameart.org/content/2d-cave-platformer-tileset-16x16
+2D Cave Platformer Tileset [16x16] by RottingPixels, usable under Creative Commons CC0 license.
+
+Castle Tiles (spr_castle) - https://opengameart.org/content/2d-cave-platformer-tileset-16x16
+2d castle platformer starter assets by pudman, usable under Creative Commons CC0 license.
+
+Animated Bird Enemy (spr_bird) - https://opengameart.org/content/animated-birds-32x32
+Animated Birds (32x32) by MoikMellah, usable under Creative Commons CC0 license.
+
+Menu Click Sfx (snd_click) - https://opengameart.org/content/menu-selection-click
+Menu Selection Click by NenadSimic, usable under Creative Commons CC-BY 3.0 license.
+
+Coin Collection Sfx (snd_coin) - https://opengameart.org/content/picked-coin-echo
+Picked Coin Echo by NenadSimic, usable under Creative Commons CC-BY 3.0 license.
+
+Jump Sfx (snd_jump) - https://opengameart.org/content/slime-jump-effect
+Slime jump effect by KobatoGames, usable under Creative Commons CC0 license.
+
+Poof Sfx (snd_poof) - https://opengameart.org/content/poof-noises
+Poof Noises by dklon, usable under Creative Commons CC-BY 3.0 license.
+
+Menu BGM (snd_menu_music) - https://opengameart.org/content/titlemenu-screen-bgm
+Title/Menu Screen BGM by el-corleo, usable under Creative Commons CC-BY-SA 3.0 license.
+
+Portal Sfx (snd_portal) - https://opengameart.org/content/portal-sound
+Portal sound by IgnasD, usable under Creative Commons CC0 license.
+
+Squish Sfx (snd_squish) - https://opengameart.org/content/8-wet-squish-slurp-impacts
+8 wet squish, slurp impacts by Independent.nu, usable under Creative Commons CC0 license.

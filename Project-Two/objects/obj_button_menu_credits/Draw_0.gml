@@ -11,7 +11,7 @@ draw_text(400, 230, "Members:");
 draw_text(400, 260, "Producer: David Taylor");
 draw_text(400, 290, "Programmer: Kabir Narayan");
 draw_text(400, 320, "Artist: Josh Diggs");
-draw_text(400, 420, "To see more licensing details check the license.txt");
-draw_text(400, 450, "If sprites not listed in the license.txt then");
-draw_text(400, 480, "they where created by Team A");
+draw_text(400, 420, "To see more licensing details check the license.txt file");
+draw_text(400, 450, "If sprites/ sfx/ other assets are not listed in the");
+draw_text(400, 480, "license.txt file then they were created by Team A");
 
