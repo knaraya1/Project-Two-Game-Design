@@ -132,7 +132,6 @@
     {"name":"inst_80D0B2A","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_57756BF2","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_3708D7ED","path":"rooms/rm_level2/rm_level2.yy",},
-    {"name":"inst_28B16248","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_4B7983EE","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_5C1EA8A4","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_6BFDE989","path":"rooms/rm_level2/rm_level2.yy",},
@@ -155,10 +154,13 @@
     {"name":"inst_622139B0","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_326382AB","path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"inst_62FF3487","path":"rooms/rm_level2/rm_level2.yy",},
+    {"name":"inst_5830B8DF","path":"rooms/rm_level2/rm_level2.yy",},
+    {"name":"inst_28B16248","path":"rooms/rm_level2/rm_level2.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Player_Instance","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5830B8DF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1824.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B49010B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":true,"inheritedItemId":{"name":"inst_1B49010B","path":"rooms/rm_level1/rm_level1.yy",},"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":992.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"coins_instance","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
