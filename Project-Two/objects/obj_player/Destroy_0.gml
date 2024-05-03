@@ -6,6 +6,6 @@ if (obj_game.player_health > 0) {
 	obj_player.shader_active = true;
     obj_player.shader_timer = 30;
 } else if (obj_game.player_health <= 0) {
-	game_restart()
+	room_goto(rm_gameover_menu)
 	audio_stop_all()
 }
