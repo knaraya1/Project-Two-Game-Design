@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-audio_play_sound(snd_music, 10, false)
-
+audio_stop_all()
+audio_play_sound(snd_music, 10, true)
+pause = false;
