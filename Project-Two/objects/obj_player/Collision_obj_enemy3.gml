@@ -8,10 +8,7 @@ if (states = playerStates.normal) and (obj_enemy3.states = enemy3States.normal) 
 		destroy.alarm[0] = 15
 		vspeed = -jumpHeight;
 	} else {
-		var destroy = instance_create_layer(x, y, "Player_Instance", obj_destroy);
-		obj_player.visible = false
-		alarm[0] = 1
-		destroy.alarm[0] = 15
+		instance_destroy();
 		audio_play_sound(snd_lose, 10, false)
 	}
 } else if (states = playerStates.upsideDown) and (obj_enemy3.states = enemy3States.upsideDown) {
@@ -22,17 +19,11 @@ if (states = playerStates.normal) and (obj_enemy3.states = enemy3States.normal) 
 		destroy.alarm[0] = 15
 		vspeed = jumpHeight;
 	} else {
-		var destroy = instance_create_layer(x, y, "Player_Instance", obj_destroy);
-		obj_player.visible = false
-		alarm[0] = 1
-		destroy.alarm[0] = 15
+		instance_destroy();
 		audio_play_sound(snd_lose, 10, false)
 	}	
 } else {
-	var destroy = instance_create_layer(x, y, "Player_Instance", obj_destroy);
-	obj_player.visible = false
-	alarm[0] = 1
-	destroy.alarm[0] = 15
+	instance_destroy();
 	audio_play_sound(snd_lose, 10, false)
 }
 

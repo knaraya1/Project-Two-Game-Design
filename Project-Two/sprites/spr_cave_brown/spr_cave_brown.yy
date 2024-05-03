@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_cave_brown",
-  "bbox_bottom": 895,
+  "bbox_bottom": 511,
   "bbox_left": 0,
-  "bbox_right": 895,
+  "bbox_right": 511,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 896,
+  "height": 512,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"31edd087-efc6-4a11-9a81-918abb058474","blendMode":3,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -71,5 +71,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 896,
+  "width": 512,
 }
