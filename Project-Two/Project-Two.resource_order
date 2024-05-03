@@ -34,6 +34,7 @@
     {"name":"rm_level2","order":1,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"spr_block","order":5,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"obj_enemy3","order":4,"path":"objects/obj_enemy3/obj_enemy3.yy",},
+    {"name":"snd_portal","order":5,"path":"sounds/snd_portal/snd_portal.yy",},
     {"name":"obj_spike_monster2","order":7,"path":"objects/obj_spike_monster2/obj_spike_monster2.yy",},
     {"name":"spr_forrest_background","order":27,"path":"sprites/spr_forrest_background/spr_forrest_background.yy",},
     {"name":"spr_cave_grey","order":18,"path":"sprites/spr_cave_grey/spr_cave_grey.yy",},
