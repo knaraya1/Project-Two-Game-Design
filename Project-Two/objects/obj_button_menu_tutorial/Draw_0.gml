@@ -13,7 +13,7 @@ draw_text(400, 310, "To use an orb press the spacebar as you pass over one.");
 draw_text(400, 370, "Jump orbs allow you to do a mid-air jump.");
 draw_text(400, 430, "Gravity orbs allow you to reverse gravity.");
 draw_text(400, 490, "To kill an enemy jump on their head.");
-draw_text(400, 520, "To pause, press the Esc button twice.");
+draw_text(400, 520, "To pause, press the Esc button twice. Check readme.txt for cheats.");
 
 
 
