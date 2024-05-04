@@ -5,6 +5,7 @@ obj_player.visible = false
 alarm[0] = 1
 destroy.alarm[0] = 15
 audio_play_sound(snd_poof, 10, false)
+obj_game.player_score -= 5
 
 
 //if (states = playerStates.upsideDown) {

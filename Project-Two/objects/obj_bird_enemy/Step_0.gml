@@ -9,5 +9,9 @@ if (instance_exists(obj_player)) {
     }
 }
 
+if (y >= 820 || x < 300 || x > 2400 || y < 200) {
+    path_start(fly_path2, hsp, path_action_restart, true);  // Restart the path
+}
+
 
 

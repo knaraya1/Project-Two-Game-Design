@@ -29,3 +29,6 @@ if (!pause) {
 		
 	}
 }
+if(player_score < 0){
+	player_score = 0
+}
