@@ -1,4 +1,4 @@
-Game Title: Project Algebra (Haven't Decided on Final Name)
+Game Title: Rem's Adventures
 Group Name: Team A
 
 Members:
