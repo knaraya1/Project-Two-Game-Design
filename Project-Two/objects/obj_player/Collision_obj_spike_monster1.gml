@@ -4,7 +4,7 @@ var destroy = instance_create_layer(x, y, "Player_Instance", obj_destroy);
 obj_player.visible = false
 alarm[0] = 1
 destroy.alarm[0] = 15
-audio_play_sound(snd_poof, 10, false)
+audio_play_sound(snd_lose, 10, false)
 obj_game.player_score -= 5
 
 

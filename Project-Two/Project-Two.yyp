@@ -85,7 +85,7 @@
     {"id":{"name":"tls_castle","path":"tilesets/tls_castle/tls_castle.yy",},},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},},
     {"id":{"name":"tls_background","path":"tilesets/tls_background/tls_background.yy",},},
-    {"id":{"name":"snd_poof","path":"sounds/snd_poof/snd_poof.yy",},},
+    {"id":{"name":"snd_lose","path":"sounds/snd_lose/snd_lose.yy",},},
     {"id":{"name":"spr_bird","path":"sprites/spr_bird/spr_bird.yy",},},
     {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},},
     {"id":{"name":"spr_player3","path":"sprites/spr_player3/spr_player3.yy",},},

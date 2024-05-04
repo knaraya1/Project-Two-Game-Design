@@ -42,7 +42,7 @@
     {"name":"tls_castle","order":7,"path":"tilesets/tls_castle/tls_castle.yy",},
     {"name":"spr_bat","order":7,"path":"sprites/spr_bat/spr_bat.yy",},
     {"name":"tls_background","order":1,"path":"tilesets/tls_background/tls_background.yy",},
-    {"name":"snd_poof","order":3,"path":"sounds/snd_poof/snd_poof.yy",},
+    {"name":"snd_lose","order":3,"path":"sounds/snd_lose/snd_lose.yy",},
     {"name":"spr_bird","order":8,"path":"sprites/spr_bird/spr_bird.yy",},
     {"name":"obj_enemy2","order":8,"path":"objects/obj_enemy2/obj_enemy2.yy",},
     {"name":"spr_spike","order":3,"path":"sprites/spr_spike/spr_spike.yy",},
