@@ -3,3 +3,7 @@
 audio_play_sound(snd_portal, 10, false)
 room_goto_next()
 obj_game.player_score += 75
+if(room == rm_level4){
+	audio_stop_all()
+	room_goto(rm_game_over)
+}

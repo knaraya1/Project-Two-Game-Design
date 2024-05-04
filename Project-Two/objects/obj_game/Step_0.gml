@@ -32,3 +32,14 @@ if (!pause) {
 if(player_score < 0){
 	player_score = 0
 }
+if (keyboard_check_pressed(ord("G")) && keyboard_check_direct(vk_alt)) {
+    // Turn on god mode
+    godMode = true
+	audio_play_sound(snd_click,1,false)
+}
+
+if (keyboard_check_pressed(ord("M")) && keyboard_check_direct(vk_alt)) {
+    // Turn off god mode
+	godMode = false
+	audio_play_sound(snd_click,1,false)
+}

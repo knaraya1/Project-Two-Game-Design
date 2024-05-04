@@ -18,3 +18,9 @@ To utilize the orbs, press spacebar as the player passes over them.
 If you land on or collide with a spike, you will lose health and the level restarts.
 If you collide with an enemy from the side, you will lose health and the level restarts.
 Jump and land on top of an enemy to kill it.
+
+Cheat Codes:
+
+Turn on God Mode (Invincibility): Press ALT + G
+Turn off God Mode: Press ALT + M
+Move Next Stage: Press P
