@@ -35,6 +35,7 @@
     {"name":"spr_cave_brown","order":26,"path":"sprites/spr_cave_brown/spr_cave_brown.yy",},
     {"name":"obj_block","order":5,"path":"objects/obj_block/obj_block.yy",},
     {"name":"spr_spike_monster1","order":4,"path":"sprites/spr_spike_monster1/spr_spike_monster1.yy",},
+    {"name":"obj_menu","order":1,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"obj_spike","order":11,"path":"objects/obj_spike/obj_spike.yy",},
     {"name":"spr_4spikes","order":2,"path":"sprites/spr_4spikes/spr_4spikes.yy",},
     {"name":"spr_spike_monster2","order":5,"path":"sprites/spr_spike_monster2/spr_spike_monster2.yy",},
